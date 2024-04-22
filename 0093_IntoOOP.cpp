@@ -35,4 +35,10 @@ class Matakuliah{
             cout << "Nama MK: " << namaMK << endl;
             cout << "SKS: " << sks << endl;
         }
+};
+
+int main () {
+    Mahasiswa mhs;
+    Matakuliah mk;
+    
 }
