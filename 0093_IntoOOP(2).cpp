@@ -20,4 +20,9 @@ class bangunDatar{
         float hitungluas (){
             return panjang * lebar;
         }
+
+        void display(){
+            cout << "Panjangnya = " << panjang << endl;
+            cout << "Lebarnya = " << lebar << endl;
+        }
 }
